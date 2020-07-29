@@ -48,12 +48,15 @@ Exploration began by looking at the top 10 tweets of the data set to get familia
 
 #### Characteristic Figures
 **All Most Used Words**
+
 ![](pics/AllMostUsed.png)
 
 **All Unique Words**
+
 ![](pics/AllUnique.png)
 
 **Positive and Negative Unique Words**
+
 ![Positive and Negative Unique Words](pics/PositiveNegativeUsed.png)
 
 ## Modeling Sentiment
