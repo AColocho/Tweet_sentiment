@@ -53,7 +53,7 @@ Exploration began by looking at the top 10 tweets of the data set to get familia
 
 **All Unique Words**
 
-![](pics/AllUnique.png)
+![](pics/AllUniqueWords1.png)
 
 **Positive and Negative Unique Words**
 
